@@ -46,5 +46,5 @@ You are free to use, modify, and share it — no restrictions.
 
 ## 🙋 Author
 
-Made with 💻 and curiosity by **[Chinanu]**  
+Made with 💻 and curiosity by **Chinanu**  
 GitHub: [https://github.com/chinanugod](https://github.com/chinanugod)
