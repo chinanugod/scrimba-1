@@ -1,50 +1,19 @@
-# Scrimba-1 🏁
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
 
-A simple scoreboard checker built during my Scrimba JavaScript course.  
-It helps track and update scores in real time using basic DOM manipulation.
+Head over to https://vitejs.dev/ to learn more about configuring vite
+## About Scrimba
 
----
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-## 📌 Description
+- [Our courses](https://scrimba.com/courses)
+- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-This project is part of my hands-on practice while learning JavaScript.  
-It updates the score for two sides with just button clicks, helping reinforce how functions, variables, and the DOM interact.
-
----
-
-## 🔧 Features
-
-- 🧮 Track scores for two teams
-- 👆 Increase scores with a button click
-- 🧠 Practice using functions and variables
-- 💡 Beginner-friendly code structure
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository or download the files.
-2. Open `index.html` in your web browser.
-3. Use the buttons to increase the score and watch it update in real time.
-
----
-
-## 📁 Files
-
-- `index.html` – Basic structure and buttons
-- `style.css` – Optional styling (if added)
-- `index.js` – Score update logic
-
----
-
-## 🪪 License
-
-This project is licensed under [The Unlicense](https://unlicense.org/).  
-You are free to use, modify, and share it — no restrictions.
-
----
-
-## 🙋 Author
-
-Made with 💻 and curiosity by **Chinanu**  
-GitHub: [https://github.com/chinanugod](https://github.com/chinanugod)
+Happy Coding!
